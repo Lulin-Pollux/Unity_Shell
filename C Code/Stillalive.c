@@ -3478,6 +3478,5 @@ void stillalive(void)
 }
 
 /*  제작자: Lulin Pollux (Team Project member) */
-/*  Creative Commons License. (CCL)
-	이 저작물은 CC BY-NC-SA 2.0 KR에 따라 이용할 수 있습니다.
-	저작자표시(BY), 비영리(NC), 동일조건변경허락(SA) */
+/*  MIT License
+	해당 C코드파일(.c)은 MIT License에 따라 이용할 수 있습니다. */
